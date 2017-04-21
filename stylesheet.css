@@ -1,0 +1,67 @@
+h3 {
+	font-family: Kristen ITC;
+	color: 	#191970;
+	background-color: #B0C4DE;
+	text-align: center;
+}
+h4 {
+	font-family: Century Gothic;
+	text-align: center;
+	color: #708090;
+}
+section {
+	width: 850px;
+	border-style: hidden;
+	border-radius: 5px;
+	padding: 2px;
+	margin-right: 100px;
+	margin-left: 60px;
+}
+.icons {
+	padding: 5px;
+	width: 70px;
+	border-radius: 100%
+}
+.icons:hover {
+	box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+div.travel {
+	position: absolute;
+	top: 560px;
+	left: 65px;
+	width: 400px;
+	height: 100px;
+	border-style: hidden;
+}
+.discover {
+  position: absolute;
+	top: 600px;
+	right: 50px;
+}
+#discover {
+	position: absolute;
+	top: 820px;
+	right: 50px;
+	width: 400px;
+	height: 200px;
+	border-style: hidden;
+	color: black;
+}
+#capture {
+	position: absolute;
+	top: 1030px;
+	left: 65px;
+  width: 400px;
+	height: 200px;
+	border-style: hidden;
+	color: black;
+}
+.capture {
+	position: absolute;
+	top: 800px;
+	left: 90px;
+}
+#gallery {
+  position: absolute;
+  top: 1200px;
+}
